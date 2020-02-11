@@ -6,10 +6,10 @@ export function createShadows(styles: any) {
     1: {
       shadowOffset: {
         width: 0,
-        height: 1,
+        height: 1
       },
       shadowOpacity: 0.18,
-      shadowRadius: 1.00,
+      shadowRadius: 1.0,
 
       elevation: 1,
       ...styles
@@ -17,9 +17,9 @@ export function createShadows(styles: any) {
     2: {
       shadowOffset: {
         width: 0,
-        height: 1,
+        height: 1
       },
-      shadowOpacity: 0.20,
+      shadowOpacity: 0.2,
       shadowRadius: 1.41,
 
       elevation: 2,
@@ -28,7 +28,7 @@ export function createShadows(styles: any) {
     3: {
       shadowOffset: {
         width: 0,
-        height: 1,
+        height: 1
       },
       shadowOpacity: 0.22,
       shadowRadius: 2.22,
@@ -39,7 +39,7 @@ export function createShadows(styles: any) {
     4: {
       shadowOffset: {
         width: 0,
-        height: 2,
+        height: 2
       },
       shadowOpacity: 0.23,
       shadowRadius: 2.62,
@@ -50,7 +50,7 @@ export function createShadows(styles: any) {
     5: {
       shadowOffset: {
         width: 0,
-        height: 2,
+        height: 2
       },
       shadowOpacity: 0.25,
       shadowRadius: 3.84,
@@ -61,7 +61,7 @@ export function createShadows(styles: any) {
     6: {
       shadowOffset: {
         width: 0,
-        height: 3,
+        height: 3
       },
       shadowOpacity: 0.27,
       shadowRadius: 4.65,
@@ -72,7 +72,7 @@ export function createShadows(styles: any) {
     7: {
       shadowOffset: {
         width: 0,
-        height: 3,
+        height: 3
       },
       shadowOpacity: 0.29,
       shadowRadius: 4.65,
@@ -83,9 +83,9 @@ export function createShadows(styles: any) {
     8: {
       shadowOffset: {
         width: 0,
-        height: 4,
+        height: 4
       },
-      shadowOpacity: 0.30,
+      shadowOpacity: 0.3,
       shadowRadius: 4.65,
 
       elevation: 8,
@@ -94,7 +94,7 @@ export function createShadows(styles: any) {
     9: {
       shadowOffset: {
         width: 0,
-        height: 4,
+        height: 4
       },
       shadowOpacity: 0.32,
       shadowRadius: 5.46,
@@ -105,7 +105,7 @@ export function createShadows(styles: any) {
     10: {
       shadowOffset: {
         width: 0,
-        height: 5,
+        height: 5
       },
       shadowOpacity: 0.34,
       shadowRadius: 6.27,
@@ -116,7 +116,7 @@ export function createShadows(styles: any) {
     11: {
       shadowOffset: {
         width: 0,
-        height: 5,
+        height: 5
       },
       shadowOpacity: 0.36,
       shadowRadius: 6.68,
@@ -127,7 +127,7 @@ export function createShadows(styles: any) {
     12: {
       shadowOffset: {
         width: 0,
-        height: 6,
+        height: 6
       },
       shadowOpacity: 0.37,
       shadowRadius: 7.49,
@@ -138,10 +138,10 @@ export function createShadows(styles: any) {
     13: {
       shadowOffset: {
         width: 0,
-        height: 6,
+        height: 6
       },
       shadowOpacity: 0.39,
-      shadowRadius: 8.30,
+      shadowRadius: 8.3,
 
       elevation: 13,
       ...styles
@@ -149,7 +149,7 @@ export function createShadows(styles: any) {
     14: {
       shadowOffset: {
         width: 0,
-        height: 7,
+        height: 7
       },
       shadowOpacity: 0.41,
       shadowRadius: 9.11,
@@ -160,7 +160,7 @@ export function createShadows(styles: any) {
     15: {
       shadowOffset: {
         width: 0,
-        height: 7,
+        height: 7
       },
       shadowOpacity: 0.43,
       shadowRadius: 9.51,
@@ -171,7 +171,7 @@ export function createShadows(styles: any) {
     16: {
       shadowOffset: {
         width: 0,
-        height: 8,
+        height: 8
       },
       shadowOpacity: 0.44,
       shadowRadius: 10.32,
@@ -182,7 +182,7 @@ export function createShadows(styles: any) {
     17: {
       shadowOffset: {
         width: 0,
-        height: 8,
+        height: 8
       },
       shadowOpacity: 0.46,
       shadowRadius: 11.14,
@@ -193,7 +193,7 @@ export function createShadows(styles: any) {
     18: {
       shadowOffset: {
         width: 0,
-        height: 9,
+        height: 9
       },
       shadowOpacity: 0.48,
       shadowRadius: 11.95,
@@ -204,9 +204,9 @@ export function createShadows(styles: any) {
     19: {
       shadowOffset: {
         width: 0,
-        height: 9,
+        height: 9
       },
-      shadowOpacity: 0.50,
+      shadowOpacity: 0.5,
       shadowRadius: 12.35,
 
       elevation: 19,
@@ -215,7 +215,7 @@ export function createShadows(styles: any) {
     20: {
       shadowOffset: {
         width: 0,
-        height: 10,
+        height: 10
       },
       shadowOpacity: 0.51,
       shadowRadius: 13.16,
@@ -226,7 +226,7 @@ export function createShadows(styles: any) {
     21: {
       shadowOffset: {
         width: 0,
-        height: 10,
+        height: 10
       },
       shadowOpacity: 0.53,
       shadowRadius: 13.97,
@@ -237,7 +237,7 @@ export function createShadows(styles: any) {
     22: {
       shadowOffset: {
         width: 0,
-        height: 11,
+        height: 11
       },
       shadowOpacity: 0.55,
       shadowRadius: 14.78,
@@ -248,7 +248,7 @@ export function createShadows(styles: any) {
     23: {
       shadowOffset: {
         width: 0,
-        height: 11,
+        height: 11
       },
       shadowOpacity: 0.57,
       shadowRadius: 15.19,
@@ -259,15 +259,15 @@ export function createShadows(styles: any) {
     24: {
       shadowOffset: {
         width: 0,
-        height: 12,
+        height: 12
       },
       shadowOpacity: 0.58,
-      shadowRadius: 16.00,
+      shadowRadius: 16.0,
 
       elevation: 24,
       ...styles
     }
-  }
+  };
 }
 
 export const black = createShadows({
