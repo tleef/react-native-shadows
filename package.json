@@ -1,0 +1,21 @@
+{
+  "name": "@tleef/react-native-shadows",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "tsc",
+    "format": "prettier \"src/**/*.ts\" --write",
+    "prepare": "yarn build"
+  },
+  "repository": "git+https://github.com/tleef/react-native-shadows.git",
+  "author": "Tom Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tleef/react-native-shadows/issues"
+  },
+  "homepage": "https://github.com/tleef/react-native-shadows#readme",
+  "devDependencies": {
+    "prettier": "^1.19.1",
+    "typescript": "^3.7.5"
+  }
+}
